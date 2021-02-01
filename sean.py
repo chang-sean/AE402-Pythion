@@ -1,0 +1,9 @@
+#print(type(9977),type("Im"))
+#iq=input("你智商多少?")
+#print("你智商是",iq)
+#area=r*r*3.1415926
+#邊邊=2*r*3.1415926
+#print("圓面積約",area)
+#print("圓周長約",邊邊)
+問題=int("ARE","YOU","dimwit","大寫")
+if(問題=YES)
